@@ -1,3 +1,6 @@
+Readme file was updated
+=======================
+
 GitHub Example
 ==============
 
